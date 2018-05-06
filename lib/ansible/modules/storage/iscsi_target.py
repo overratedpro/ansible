@@ -26,7 +26,7 @@ module: iscsi_target
 
 short_description: Manage ISCSI target
 
-version_added: "2.4"
+version_added: "2.5"
 
 description:
     - This module handles the setup of ISCSI targets on block device and/or file objects, which then can be accessed using the open_iscsi module.
